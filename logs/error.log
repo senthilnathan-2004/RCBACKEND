@@ -1,0 +1,170 @@
+2025-12-04 00:24:28 [ERROR]: Not Found - /uploads/935f3dd8-cd63-4e9e-962d-196262a10516.jpg - /uploads/935f3dd8-cd63-4e9e-962d-196262a10516.jpg - GET - ::1
+2025-12-04 00:24:33 [ERROR]: Not Found - /uploads/935f3dd8-cd63-4e9e-962d-196262a10516.jpg - /uploads/935f3dd8-cd63-4e9e-962d-196262a10516.jpg - GET - ::1
+2025-12-04 00:26:08 [ERROR]: Not Found - /uploads/d3f27937-196a-4bba-8ae2-15b443446b99.jpg - /uploads/d3f27937-196a-4bba-8ae2-15b443446b99.jpg - GET - ::1
+2025-12-04 00:26:12 [ERROR]: Not Found - /uploads/d3f27937-196a-4bba-8ae2-15b443446b99.jpg - /uploads/d3f27937-196a-4bba-8ae2-15b443446b99.jpg - GET - ::1
+2025-12-04 00:26:51 [ERROR]: Not Found - /uploads/d3f27937-196a-4bba-8ae2-15b443446b99.jpg - /uploads/d3f27937-196a-4bba-8ae2-15b443446b99.jpg - GET - ::1
+2025-12-04 00:30:56 [ERROR]: Not Found - /uploads/d3f27937-196a-4bba-8ae2-15b443446b99.jpg - /uploads/d3f27937-196a-4bba-8ae2-15b443446b99.jpg - GET - ::1
+2025-12-04 01:42:36 [ERROR]: Error syncing admin credentials: User validation failed: phone: Please provide a valid Indian phone number
+2025-12-04 01:42:36 [ERROR]: Failed to sync admin credentials on startup: User validation failed: phone: Please provide a valid Indian phone number
+2025-12-04 01:44:02 [ERROR]: Error syncing admin credentials: User validation failed: phone: Please provide a valid Indian phone number
+2025-12-04 01:44:02 [ERROR]: Failed to sync admin credentials on startup: User validation failed: phone: Please provide a valid Indian phone number
+2025-12-04 01:47:32 [ERROR]: Error syncing admin credentials: User validation failed: phone: Please provide a valid Indian phone number
+2025-12-04 01:47:32 [ERROR]: Failed to sync admin credentials on startup: User validation failed: phone: Please provide a valid Indian phone number
+2025-12-04 01:47:58 [ERROR]: Error syncing admin credentials: User validation failed: phone: Please provide a valid Indian phone number
+2025-12-04 01:47:58 [ERROR]: Failed to sync admin credentials on startup: User validation failed: phone: Please provide a valid Indian phone number
+2025-12-04 01:48:05 [ERROR]: Error syncing admin credentials: User validation failed: phone: Please provide a valid Indian phone number
+2025-12-04 01:48:05 [ERROR]: Failed to sync admin credentials on startup: User validation failed: phone: Please provide a valid Indian phone number
+2025-12-04 01:48:29 [ERROR]: Error syncing admin credentials: User validation failed: phone: Please provide a valid Indian phone number
+2025-12-04 01:48:29 [ERROR]: Failed to sync admin credentials on startup: User validation failed: phone: Please provide a valid Indian phone number
+2025-12-04 01:48:29 [ERROR]: Error stack: ValidationError: User validation failed: phone: Please provide a valid Indian phone number
+    at Document.invalidate (/Users/senthilnathanr/Downloads/rotaract-club-backend/backend/node_modules/mongoose/lib/document.js:3362:32)
+    at /Users/senthilnathanr/Downloads/rotaract-club-backend/backend/node_modules/mongoose/lib/document.js:3123:17
+    at /Users/senthilnathanr/Downloads/rotaract-club-backend/backend/node_modules/mongoose/lib/schemaType.js:1446:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+2025-12-04 01:48:46 [ERROR]: Error syncing admin credentials: User validation failed: phone: Please provide a valid Indian phone number
+2025-12-04 01:48:46 [ERROR]: Failed to sync admin credentials on startup: User validation failed: phone: Please provide a valid Indian phone number
+2025-12-04 01:48:46 [ERROR]: Error stack: ValidationError: User validation failed: phone: Please provide a valid Indian phone number
+    at Document.invalidate (/Users/senthilnathanr/Downloads/rotaract-club-backend/backend/node_modules/mongoose/lib/document.js:3362:32)
+    at /Users/senthilnathanr/Downloads/rotaract-club-backend/backend/node_modules/mongoose/lib/document.js:3123:17
+    at /Users/senthilnathanr/Downloads/rotaract-club-backend/backend/node_modules/mongoose/lib/schemaType.js:1446:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+2025-12-04 01:48:55 [ERROR]: Error syncing admin credentials: User validation failed: phone: Please provide a valid Indian phone number
+2025-12-04 01:48:55 [ERROR]: Failed to sync admin credentials on startup: User validation failed: phone: Please provide a valid Indian phone number
+2025-12-04 01:48:55 [ERROR]: Error stack: ValidationError: User validation failed: phone: Please provide a valid Indian phone number
+    at Document.invalidate (/Users/senthilnathanr/Downloads/rotaract-club-backend/backend/node_modules/mongoose/lib/document.js:3362:32)
+    at /Users/senthilnathanr/Downloads/rotaract-club-backend/backend/node_modules/mongoose/lib/document.js:3123:17
+    at /Users/senthilnathanr/Downloads/rotaract-club-backend/backend/node_modules/mongoose/lib/schemaType.js:1446:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+2025-12-04 01:49:53 [ERROR]: Error syncing admin credentials: User validation failed: phone: Please provide a valid Indian phone number
+2025-12-04 01:49:53 [ERROR]: Failed to sync admin credentials on startup: User validation failed: phone: Please provide a valid Indian phone number
+2025-12-04 01:49:53 [ERROR]: Error stack: ValidationError: User validation failed: phone: Please provide a valid Indian phone number
+    at Document.invalidate (/Users/senthilnathanr/Downloads/rotaract-club-backend/backend/node_modules/mongoose/lib/document.js:3362:32)
+    at /Users/senthilnathanr/Downloads/rotaract-club-backend/backend/node_modules/mongoose/lib/document.js:3123:17
+    at /Users/senthilnathanr/Downloads/rotaract-club-backend/backend/node_modules/mongoose/lib/schemaType.js:1446:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+2025-12-04 08:04:10 [ERROR]: Error syncing admin credentials: User validation failed: phone: Please provide a valid Indian phone number
+2025-12-04 08:04:10 [ERROR]: Failed to sync admin credentials on startup: User validation failed: phone: Please provide a valid Indian phone number
+2025-12-04 08:04:42 [ERROR]: Error syncing admin credentials: User validation failed: phone: Please provide a valid Indian phone number
+2025-12-04 08:04:42 [ERROR]: Failed to sync admin credentials on startup: User validation failed: phone: Please provide a valid Indian phone number
+2025-12-04 08:04:42 [ERROR]: Error stack: ValidationError: User validation failed: phone: Please provide a valid Indian phone number
+    at Document.invalidate (/Users/senthilnathanr/Downloads/rotaract-club-backend/backend/node_modules/mongoose/lib/document.js:3362:32)
+    at /Users/senthilnathanr/Downloads/rotaract-club-backend/backend/node_modules/mongoose/lib/document.js:3123:17
+    at /Users/senthilnathanr/Downloads/rotaract-club-backend/backend/node_modules/mongoose/lib/schemaType.js:1446:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+2025-12-04 08:04:48 [ERROR]: Error syncing admin credentials: User validation failed: phone: Please provide a valid Indian phone number
+2025-12-04 08:04:48 [ERROR]: Failed to sync admin credentials on startup: User validation failed: phone: Please provide a valid Indian phone number
+2025-12-04 08:04:48 [ERROR]: Error stack: ValidationError: User validation failed: phone: Please provide a valid Indian phone number
+    at Document.invalidate (/Users/senthilnathanr/Downloads/rotaract-club-backend/backend/node_modules/mongoose/lib/document.js:3362:32)
+    at /Users/senthilnathanr/Downloads/rotaract-club-backend/backend/node_modules/mongoose/lib/document.js:3123:17
+    at /Users/senthilnathanr/Downloads/rotaract-club-backend/backend/node_modules/mongoose/lib/schemaType.js:1446:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+2025-12-04 08:04:49 [ERROR]: Error syncing admin credentials: User validation failed: phone: Please provide a valid Indian phone number
+2025-12-04 08:04:49 [ERROR]: Failed to sync admin credentials on startup: User validation failed: phone: Please provide a valid Indian phone number
+2025-12-04 08:04:49 [ERROR]: Error stack: ValidationError: User validation failed: phone: Please provide a valid Indian phone number
+    at Document.invalidate (/Users/senthilnathanr/Downloads/rotaract-club-backend/backend/node_modules/mongoose/lib/document.js:3362:32)
+    at /Users/senthilnathanr/Downloads/rotaract-club-backend/backend/node_modules/mongoose/lib/document.js:3123:17
+    at /Users/senthilnathanr/Downloads/rotaract-club-backend/backend/node_modules/mongoose/lib/schemaType.js:1446:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+2025-12-04 08:15:43 [ERROR]: Error syncing secretary: User validation failed: email: Please provide a valid email
+2025-12-04 08:17:49 [ERROR]: Error syncing secretary: User validation failed: email: Please provide a valid email
+2025-12-04 08:18:35 [ERROR]: Error syncing secretary: User validation failed: email: Please provide a valid email
+2025-12-04 08:19:08 [ERROR]: Error syncing secretary: User validation failed: email: Please provide a valid email
+2025-12-04 08:20:26 [ERROR]: Error syncing secretary: User validation failed: email: Please provide a valid email
+2025-12-04 08:24:22 [ERROR]: Invalid email format for secretary: senra4444gmail.com
+2025-12-04 08:24:43 [ERROR]: Invalid email format for secretary: senra4444gmail.com
+2025-12-04 08:25:07 [ERROR]: Invalid email format for secretary: senra4444gmail.com
+2025-12-04 08:25:11 [ERROR]: Invalid email format for secretary: senra4444gmail.com
+2025-12-04 08:25:34 [ERROR]: Invalid email format for secretary: senra4444gmail.com
+2025-12-04 08:25:50 [ERROR]: Invalid email format for secretary: "senra4444gmail.com" (normalized: "senra4444gmail.com")
+2025-12-04 08:26:05 [ERROR]: Invalid email format for secretary: "senra4444gmail.com" (normalized: "senra4444gmail.com")
+2025-12-04 08:30:35 [ERROR]: Not Found - /uploads/d3f27937-196a-4bba-8ae2-15b443446b99.jpg - /uploads/d3f27937-196a-4bba-8ae2-15b443446b99.jpg - GET - ::1
+2025-12-04 08:30:44 [ERROR]: Not Found - /uploads/d3f27937-196a-4bba-8ae2-15b443446b99.jpg - /uploads/d3f27937-196a-4bba-8ae2-15b443446b99.jpg - GET - ::1
+2025-12-04 08:31:09 [ERROR]: Not Found - /uploads/6296fd8b-f0c1-4343-ad8b-6c82efd8180e.jpg - /uploads/6296fd8b-f0c1-4343-ad8b-6c82efd8180e.jpg - GET - ::1
+2025-12-04 08:31:13 [ERROR]: Not Found - /uploads/6296fd8b-f0c1-4343-ad8b-6c82efd8180e.jpg - /uploads/6296fd8b-f0c1-4343-ad8b-6c82efd8180e.jpg - GET - ::1
+2025-12-04 08:44:29 [ERROR]: Not Found - /api/uploads/logos/clubLogo-6c006f3a2e5a61a4627e469e584f27b2.jpeg - /api/uploads/logos/clubLogo-6c006f3a2e5a61a4627e469e584f27b2.jpeg - GET - ::1
+2025-12-04 08:44:29 [ERROR]: Not Found - /api/uploads/logos/clubLogo-6c006f3a2e5a61a4627e469e584f27b2.jpeg - /api/uploads/logos/clubLogo-6c006f3a2e5a61a4627e469e584f27b2.jpeg - GET - ::1
+2025-12-04 08:44:35 [ERROR]: Not Found - /api/uploads/logos/clubLogo-6c006f3a2e5a61a4627e469e584f27b2.jpeg - /api/uploads/logos/clubLogo-6c006f3a2e5a61a4627e469e584f27b2.jpeg - GET - ::1
+2025-12-04 08:44:35 [ERROR]: Not Found - /api/uploads/logos/clubLogo-6c006f3a2e5a61a4627e469e584f27b2.jpeg - /api/uploads/logos/clubLogo-6c006f3a2e5a61a4627e469e584f27b2.jpeg - GET - ::1
+2025-12-04 08:46:54 [ERROR]: Not Found - /api/uploads/logos/clubLogo-6c006f3a2e5a61a4627e469e584f27b2.jpeg - /api/uploads/logos/clubLogo-6c006f3a2e5a61a4627e469e584f27b2.jpeg - GET - ::1
+2025-12-04 08:46:57 [ERROR]: Not Found - /api/uploads/logos/clubLogo-6c006f3a2e5a61a4627e469e584f27b2.jpeg - /api/uploads/logos/clubLogo-6c006f3a2e5a61a4627e469e584f27b2.jpeg - GET - ::1
+2025-12-04 08:46:59 [ERROR]: Not Found - /api/uploads/logos/clubLogo-6c006f3a2e5a61a4627e469e584f27b2.jpeg - /api/uploads/logos/clubLogo-6c006f3a2e5a61a4627e469e584f27b2.jpeg - GET - ::1
+2025-12-04 08:47:04 [ERROR]: Not Found - /api/uploads/logos/clubLogo-6c006f3a2e5a61a4627e469e584f27b2.jpeg - /api/uploads/logos/clubLogo-6c006f3a2e5a61a4627e469e584f27b2.jpeg - GET - ::1
+2025-12-04 08:47:07 [ERROR]: Not Found - /api/uploads/logos/clubLogo-6c006f3a2e5a61a4627e469e584f27b2.jpeg - /api/uploads/logos/clubLogo-6c006f3a2e5a61a4627e469e584f27b2.jpeg - GET - ::1
+2025-12-04 08:47:07 [ERROR]: Not Found - /api/uploads/logos/clubLogo-6c006f3a2e5a61a4627e469e584f27b2.jpeg - /api/uploads/logos/clubLogo-6c006f3a2e5a61a4627e469e584f27b2.jpeg - GET - ::1
+2025-12-04 14:33:01 [ERROR]: Add member error: User validation failed: role: `vice_president` is not a valid enum value for path `role`.
+2025-12-04 14:34:04 [ERROR]: Add member error: User validation failed: role: `vice_president` is not a valid enum value for path `role`.
+2025-12-04 14:40:59 [ERROR]: Add member error: User validation failed: role: `vice_president` is not a valid enum value for path `role`.
+2025-12-04 16:32:11 [ERROR]: Not Found - /uploads/archives/file-f67fa1233d0f99730be7f578e8462d30.pdf - /uploads/archives/file-f67fa1233d0f99730be7f578e8462d30.pdf - GET - ::1
+2025-12-05 19:02:28 [ERROR]: Not Found - /uploads/c07d100f-20b9-4918-8c49-e463e624f113.jpg - /uploads/c07d100f-20b9-4918-8c49-e463e624f113.jpg - GET - ::1
+2025-12-05 19:04:14 [ERROR]: Not Found - /uploads/04ca9832-f028-476a-b7ff-8de7ceae31a9.jpg - /uploads/04ca9832-f028-476a-b7ff-8de7ceae31a9.jpg - GET - ::1
+2025-12-05 19:04:14 [ERROR]: Not Found - /uploads/c07d100f-20b9-4918-8c49-e463e624f113.jpg - /uploads/c07d100f-20b9-4918-8c49-e463e624f113.jpg - GET - ::1
+2025-12-05 19:04:14 [ERROR]: Not Found - /uploads/dda09c30-154d-4c63-a4ed-db0000ea3808.jpg - /uploads/dda09c30-154d-4c63-a4ed-db0000ea3808.jpg - GET - ::1
+2025-12-05 19:04:14 [ERROR]: Not Found - /uploads/dda37726-2a8e-48b2-a7bd-6cb94609bc91.jpg - /uploads/dda37726-2a8e-48b2-a7bd-6cb94609bc91.jpg - GET - ::1
+2025-12-05 19:04:14 [ERROR]: Not Found - /uploads/b645dec7-3ea2-4670-b6b5-5d3da07f7ac4.jpg - /uploads/b645dec7-3ea2-4670-b6b5-5d3da07f7ac4.jpg - GET - ::1
+2025-12-05 19:04:14 [ERROR]: Not Found - /uploads/161d5301-b68b-4dd0-95a8-388350659b0b.jpg - /uploads/161d5301-b68b-4dd0-95a8-388350659b0b.jpg - GET - ::1
+2025-12-05 19:06:59 [ERROR]: Not Found - /uploads/04ca9832-f028-476a-b7ff-8de7ceae31a9.jpg - /uploads/04ca9832-f028-476a-b7ff-8de7ceae31a9.jpg - GET - ::1
+2025-12-05 19:06:59 [ERROR]: Not Found - /uploads/c07d100f-20b9-4918-8c49-e463e624f113.jpg - /uploads/c07d100f-20b9-4918-8c49-e463e624f113.jpg - GET - ::1
+2025-12-05 19:06:59 [ERROR]: Not Found - /uploads/dda09c30-154d-4c63-a4ed-db0000ea3808.jpg - /uploads/dda09c30-154d-4c63-a4ed-db0000ea3808.jpg - GET - ::1
+2025-12-05 19:06:59 [ERROR]: Not Found - /uploads/dda37726-2a8e-48b2-a7bd-6cb94609bc91.jpg - /uploads/dda37726-2a8e-48b2-a7bd-6cb94609bc91.jpg - GET - ::1
+2025-12-05 19:06:59 [ERROR]: Not Found - /uploads/b645dec7-3ea2-4670-b6b5-5d3da07f7ac4.jpg - /uploads/b645dec7-3ea2-4670-b6b5-5d3da07f7ac4.jpg - GET - ::1
+2025-12-05 19:06:59 [ERROR]: Not Found - /uploads/161d5301-b68b-4dd0-95a8-388350659b0b.jpg - /uploads/161d5301-b68b-4dd0-95a8-388350659b0b.jpg - GET - ::1
+2025-12-05 19:07:12 [ERROR]: Not Found - /uploads/04ca9832-f028-476a-b7ff-8de7ceae31a9.jpg - /uploads/04ca9832-f028-476a-b7ff-8de7ceae31a9.jpg - GET - ::1
+2025-12-05 19:07:12 [ERROR]: Not Found - /uploads/c07d100f-20b9-4918-8c49-e463e624f113.jpg - /uploads/c07d100f-20b9-4918-8c49-e463e624f113.jpg - GET - ::1
+2025-12-05 19:07:12 [ERROR]: Not Found - /uploads/dda09c30-154d-4c63-a4ed-db0000ea3808.jpg - /uploads/dda09c30-154d-4c63-a4ed-db0000ea3808.jpg - GET - ::1
+2025-12-05 19:07:12 [ERROR]: Not Found - /uploads/dda37726-2a8e-48b2-a7bd-6cb94609bc91.jpg - /uploads/dda37726-2a8e-48b2-a7bd-6cb94609bc91.jpg - GET - ::1
+2025-12-05 19:07:12 [ERROR]: Not Found - /uploads/b645dec7-3ea2-4670-b6b5-5d3da07f7ac4.jpg - /uploads/b645dec7-3ea2-4670-b6b5-5d3da07f7ac4.jpg - GET - ::1
+2025-12-05 19:07:12 [ERROR]: Not Found - /uploads/161d5301-b68b-4dd0-95a8-388350659b0b.jpg - /uploads/161d5301-b68b-4dd0-95a8-388350659b0b.jpg - GET - ::1
+2025-12-05 19:07:13 [ERROR]: Not Found - /uploads/04ca9832-f028-476a-b7ff-8de7ceae31a9.jpg - /uploads/04ca9832-f028-476a-b7ff-8de7ceae31a9.jpg - GET - ::1
+2025-12-05 19:07:13 [ERROR]: Not Found - /uploads/c07d100f-20b9-4918-8c49-e463e624f113.jpg - /uploads/c07d100f-20b9-4918-8c49-e463e624f113.jpg - GET - ::1
+2025-12-05 19:07:13 [ERROR]: Not Found - /uploads/dda09c30-154d-4c63-a4ed-db0000ea3808.jpg - /uploads/dda09c30-154d-4c63-a4ed-db0000ea3808.jpg - GET - ::1
+2025-12-05 19:07:13 [ERROR]: Not Found - /uploads/dda37726-2a8e-48b2-a7bd-6cb94609bc91.jpg - /uploads/dda37726-2a8e-48b2-a7bd-6cb94609bc91.jpg - GET - ::1
+2025-12-05 19:07:13 [ERROR]: Not Found - /uploads/b645dec7-3ea2-4670-b6b5-5d3da07f7ac4.jpg - /uploads/b645dec7-3ea2-4670-b6b5-5d3da07f7ac4.jpg - GET - ::1
+2025-12-05 19:07:13 [ERROR]: Not Found - /uploads/161d5301-b68b-4dd0-95a8-388350659b0b.jpg - /uploads/161d5301-b68b-4dd0-95a8-388350659b0b.jpg - GET - ::1
+2025-12-05 19:10:05 [ERROR]: Not Found - /api/uploads/c07d100f-20b9-4918-8c49-e463e624f113.jpg%22 - /api/uploads/c07d100f-20b9-4918-8c49-e463e624f113.jpg%22 - GET - ::1
+2025-12-05 19:10:05 [ERROR]: Not Found - /favicon.ico - /favicon.ico - GET - ::1
+2025-12-05 19:31:22 [ERROR]: Not Found - /api/uploads/04ca9832-f028-476a-b7ff-8de7ceae31a9.jpg - /api/uploads/04ca9832-f028-476a-b7ff-8de7ceae31a9.jpg - GET - ::1
+2025-12-05 19:31:22 [ERROR]: Not Found - /api/uploads/c07d100f-20b9-4918-8c49-e463e624f113.jpg - /api/uploads/c07d100f-20b9-4918-8c49-e463e624f113.jpg - GET - ::1
+2025-12-05 19:31:22 [ERROR]: Not Found - /api/uploads/dda09c30-154d-4c63-a4ed-db0000ea3808.jpg - /api/uploads/dda09c30-154d-4c63-a4ed-db0000ea3808.jpg - GET - ::1
+2025-12-05 19:31:22 [ERROR]: Not Found - /api/uploads/dda37726-2a8e-48b2-a7bd-6cb94609bc91.jpg - /api/uploads/dda37726-2a8e-48b2-a7bd-6cb94609bc91.jpg - GET - ::1
+2025-12-05 19:31:22 [ERROR]: Not Found - /api/uploads/b645dec7-3ea2-4670-b6b5-5d3da07f7ac4.jpg - /api/uploads/b645dec7-3ea2-4670-b6b5-5d3da07f7ac4.jpg - GET - ::1
+2025-12-05 19:31:22 [ERROR]: Not Found - /api/uploads/161d5301-b68b-4dd0-95a8-388350659b0b.jpg - /api/uploads/161d5301-b68b-4dd0-95a8-388350659b0b.jpg - GET - ::1
+2025-12-05 19:31:23 [ERROR]: Not Found - /api/uploads/04ca9832-f028-476a-b7ff-8de7ceae31a9.jpg - /api/uploads/04ca9832-f028-476a-b7ff-8de7ceae31a9.jpg - GET - ::1
+2025-12-05 19:31:23 [ERROR]: Not Found - /api/uploads/c07d100f-20b9-4918-8c49-e463e624f113.jpg - /api/uploads/c07d100f-20b9-4918-8c49-e463e624f113.jpg - GET - ::1
+2025-12-05 19:31:23 [ERROR]: Not Found - /api/uploads/dda09c30-154d-4c63-a4ed-db0000ea3808.jpg - /api/uploads/dda09c30-154d-4c63-a4ed-db0000ea3808.jpg - GET - ::1
+2025-12-05 19:31:23 [ERROR]: Not Found - /api/uploads/b645dec7-3ea2-4670-b6b5-5d3da07f7ac4.jpg - /api/uploads/b645dec7-3ea2-4670-b6b5-5d3da07f7ac4.jpg - GET - ::1
+2025-12-05 19:31:23 [ERROR]: Not Found - /api/uploads/dda37726-2a8e-48b2-a7bd-6cb94609bc91.jpg - /api/uploads/dda37726-2a8e-48b2-a7bd-6cb94609bc91.jpg - GET - ::1
+2025-12-05 19:31:23 [ERROR]: Not Found - /api/uploads/161d5301-b68b-4dd0-95a8-388350659b0b.jpg - /api/uploads/161d5301-b68b-4dd0-95a8-388350659b0b.jpg - GET - ::1
+2025-12-05 19:31:55 [ERROR]: Not Found - /api/uploads/04ca9832-f028-476a-b7ff-8de7ceae31a9.jpg - /api/uploads/04ca9832-f028-476a-b7ff-8de7ceae31a9.jpg - GET - ::1
+2025-12-05 19:31:55 [ERROR]: Not Found - /api/uploads/c07d100f-20b9-4918-8c49-e463e624f113.jpg - /api/uploads/c07d100f-20b9-4918-8c49-e463e624f113.jpg - GET - ::1
+2025-12-05 19:31:55 [ERROR]: Not Found - /api/uploads/dda09c30-154d-4c63-a4ed-db0000ea3808.jpg - /api/uploads/dda09c30-154d-4c63-a4ed-db0000ea3808.jpg - GET - ::1
+2025-12-05 19:31:55 [ERROR]: Not Found - /api/uploads/dda37726-2a8e-48b2-a7bd-6cb94609bc91.jpg - /api/uploads/dda37726-2a8e-48b2-a7bd-6cb94609bc91.jpg - GET - ::1
+2025-12-05 19:31:55 [ERROR]: Not Found - /api/uploads/b645dec7-3ea2-4670-b6b5-5d3da07f7ac4.jpg - /api/uploads/b645dec7-3ea2-4670-b6b5-5d3da07f7ac4.jpg - GET - ::1
+2025-12-05 19:31:55 [ERROR]: Not Found - /api/uploads/161d5301-b68b-4dd0-95a8-388350659b0b.jpg - /api/uploads/161d5301-b68b-4dd0-95a8-388350659b0b.jpg - GET - ::1
+2025-12-05 19:33:25 [ERROR]: Not Found - /api/uploads/04ca9832-f028-476a-b7ff-8de7ceae31a9.jpg - /api/uploads/04ca9832-f028-476a-b7ff-8de7ceae31a9.jpg - GET - ::1
+2025-12-05 19:33:45 [ERROR]: Not Found - /api/uploads/c07d100f-20b9-4918-8c49-e463e624f113.jpg - /api/uploads/c07d100f-20b9-4918-8c49-e463e624f113.jpg - GET - ::1
+2025-12-05 19:33:45 [ERROR]: Not Found - /api/uploads/dda09c30-154d-4c63-a4ed-db0000ea3808.jpg - /api/uploads/dda09c30-154d-4c63-a4ed-db0000ea3808.jpg - GET - ::1
+2025-12-05 19:33:45 [ERROR]: Not Found - /api/uploads/dda37726-2a8e-48b2-a7bd-6cb94609bc91.jpg - /api/uploads/dda37726-2a8e-48b2-a7bd-6cb94609bc91.jpg - GET - ::1
+2025-12-05 19:33:45 [ERROR]: Not Found - /api/uploads/b645dec7-3ea2-4670-b6b5-5d3da07f7ac4.jpg - /api/uploads/b645dec7-3ea2-4670-b6b5-5d3da07f7ac4.jpg - GET - ::1
+2025-12-05 19:33:45 [ERROR]: Not Found - /api/uploads/161d5301-b68b-4dd0-95a8-388350659b0b.jpg - /api/uploads/161d5301-b68b-4dd0-95a8-388350659b0b.jpg - GET - ::1
+2025-12-05 19:34:10 [ERROR]: Not Found - /api/uploads/c07d100f-20b9-4918-8c49-e463e624f113.jpg - /api/uploads/c07d100f-20b9-4918-8c49-e463e624f113.jpg - GET - ::1
+2025-12-05 19:34:10 [ERROR]: Not Found - /api/uploads/dda09c30-154d-4c63-a4ed-db0000ea3808.jpg - /api/uploads/dda09c30-154d-4c63-a4ed-db0000ea3808.jpg - GET - ::1
+2025-12-05 19:34:10 [ERROR]: Not Found - /api/uploads/dda37726-2a8e-48b2-a7bd-6cb94609bc91.jpg - /api/uploads/dda37726-2a8e-48b2-a7bd-6cb94609bc91.jpg - GET - ::1
+2025-12-05 19:34:10 [ERROR]: Not Found - /api/uploads/b645dec7-3ea2-4670-b6b5-5d3da07f7ac4.jpg - /api/uploads/b645dec7-3ea2-4670-b6b5-5d3da07f7ac4.jpg - GET - ::1
+2025-12-05 19:34:10 [ERROR]: Not Found - /api/uploads/161d5301-b68b-4dd0-95a8-388350659b0b.jpg - /api/uploads/161d5301-b68b-4dd0-95a8-388350659b0b.jpg - GET - ::1
+2025-12-05 19:34:19 [ERROR]: Not Found - /api/uploads/04ca9832-f028-476a-b7ff-8de7ceae31a9.jpg - /api/uploads/04ca9832-f028-476a-b7ff-8de7ceae31a9.jpg - GET - ::1
+2025-12-05 19:34:19 [ERROR]: Not Found - /api/uploads/c07d100f-20b9-4918-8c49-e463e624f113.jpg - /api/uploads/c07d100f-20b9-4918-8c49-e463e624f113.jpg - GET - ::1
+2025-12-05 19:34:19 [ERROR]: Not Found - /api/uploads/dda09c30-154d-4c63-a4ed-db0000ea3808.jpg - /api/uploads/dda09c30-154d-4c63-a4ed-db0000ea3808.jpg - GET - ::1
+2025-12-05 19:34:19 [ERROR]: Not Found - /api/uploads/dda37726-2a8e-48b2-a7bd-6cb94609bc91.jpg - /api/uploads/dda37726-2a8e-48b2-a7bd-6cb94609bc91.jpg - GET - ::1
+2025-12-05 19:34:19 [ERROR]: Not Found - /api/uploads/b645dec7-3ea2-4670-b6b5-5d3da07f7ac4.jpg - /api/uploads/b645dec7-3ea2-4670-b6b5-5d3da07f7ac4.jpg - GET - ::1
+2025-12-05 19:34:19 [ERROR]: Not Found - /api/uploads/161d5301-b68b-4dd0-95a8-388350659b0b.jpg - /api/uploads/161d5301-b68b-4dd0-95a8-388350659b0b.jpg - GET - ::1
+2025-12-05 19:34:37 [ERROR]: Not Found - /api/uploads/04ca9832-f028-476a-b7ff-8de7ceae31a9.jpg - /api/uploads/04ca9832-f028-476a-b7ff-8de7ceae31a9.jpg - GET - ::1
+2025-12-05 19:34:37 [ERROR]: Not Found - /api/uploads/c07d100f-20b9-4918-8c49-e463e624f113.jpg - /api/uploads/c07d100f-20b9-4918-8c49-e463e624f113.jpg - GET - ::1
+2025-12-05 19:34:37 [ERROR]: Not Found - /api/uploads/dda09c30-154d-4c63-a4ed-db0000ea3808.jpg - /api/uploads/dda09c30-154d-4c63-a4ed-db0000ea3808.jpg - GET - ::1
+2025-12-05 19:34:37 [ERROR]: Not Found - /api/uploads/dda37726-2a8e-48b2-a7bd-6cb94609bc91.jpg - /api/uploads/dda37726-2a8e-48b2-a7bd-6cb94609bc91.jpg - GET - ::1
+2025-12-05 19:34:37 [ERROR]: Not Found - /api/uploads/b645dec7-3ea2-4670-b6b5-5d3da07f7ac4.jpg - /api/uploads/b645dec7-3ea2-4670-b6b5-5d3da07f7ac4.jpg - GET - ::1
+2025-12-05 19:34:37 [ERROR]: Not Found - /api/uploads/161d5301-b68b-4dd0-95a8-388350659b0b.jpg - /api/uploads/161d5301-b68b-4dd0-95a8-388350659b0b.jpg - GET - ::1
+2025-12-05 20:34:40 [ERROR]: Create/update board error: Board validation failed: members.6.position: Cast to string failed for value "{ type: 'editor' }" (type Object) at path "position"
+2025-12-05 20:59:24 [ERROR]: Not Found - /api/contact - /api/contact - POST - ::1
+2025-12-05 21:05:59 [ERROR]: Not Found - /api/contact - /api/contact - POST - ::1
+2025-12-05 21:07:55 [ERROR]: Not Found - /api/contact - /api/contact - POST - ::1
+2025-12-05 21:08:13 [ERROR]: Not Found - /api/contact - /api/contact - POST - ::1
