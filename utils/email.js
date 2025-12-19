@@ -1,46 +1,47 @@
-// ============================================
-// EMAIL SERVICE
-// ============================================
+import { Resend } from "resend"
+import logger from "./logger.js"
 
-import nodemailer from "nodemailer"
-import config from "../config/config.js"
-import { logger } from "./logger.js"
+// Initialize Resend client
+const resend = new Resend(process.env.RESEND_API_KEY)
 
-// Create transporter
-const createTransporter = () => {
-  return nodemailer.createTransport({
-    host: config.smtpHost,
-    port: config.smtpPort,
-    secure: config.smtpPort === 465,
-    auth: {
-      user: config.smtpUser,
-      pass: config.smtpPass,
-    },
-  })
+// Verify Resend configuration on startup
+if (process.env.RESEND_API_KEY) {
+  logger.info("Resend API key configured - Email service ready")
+  console.log("✓ Resend email service ready")
+} else {
+  console.warn("⚠️  RESEND_API_KEY not configured. Emails will not be sent.")
+  console.warn("   Get your API key from: https://resend.com/api-keys")
 }
 
-// Send email
 export const sendEmail = async ({ to, subject, html, text }) => {
   try {
-    const transporter = createTransporter()
+    if (!process.env.RESEND_API_KEY) {
+      logger.warn("Resend API key not configured. Skipping email send.")
+      return { id: "skipped-no-config", warning: "Email not configured" }
+    }
 
-    const mailOptions = {
-      from: `Rotaract Club <${config.fromEmail}>`,
+    const { data, error } = await resend.emails.send({
+      from: "onboarding@resend.dev",
       to,
       subject,
       html,
-      text,
+      text: text || undefined, // Only include text if provided
+    })
+
+    if (error) {
+      logger.error(`Resend email error: ${error.message}`)
+      console.error("Resend Error:", error)
+      return { error: error.message, id: null }
     }
 
-    const info = await transporter.sendMail(mailOptions)
-    logger.info(`Email sent: ${info.messageId}`)
-    return { success: true, messageId: info.messageId }
+    logger.info(`Email sent via Resend: ${data.id}`)
+    return data
   } catch (error) {
-    logger.error(`Email error: ${error.message}`)
-    return { success: false, error: error.message }
+    logger.error(`Email sending failed: ${error.message}`)
+    console.error("Email Error:", error.message)
+    return { error: error.message, id: null }
   }
 }
-
 // Email templates
 export const emailTemplates = {
   welcome: (name, memberId) => ({
