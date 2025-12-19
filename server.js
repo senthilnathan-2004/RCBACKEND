@@ -68,7 +68,7 @@ app.use(
 // Enable CORS
 app.use(
   cors({
-    origin: process.env.ALLOWED_ORIGINS?.split(",") || ["http://localhost:3000"],
+    origin: "*",
     credentials: true,
     methods: ["GET", "POST", "PUT", "DELETE", "PATCH"],
     allowedHeaders: ["Content-Type", "Authorization", "X-Requested-With"],
@@ -78,7 +78,7 @@ app.use(
 // Rate limiting - General
 const generalLimiter = rateLimit({
   windowMs: 15 * 60 * 1000, // 15 minutes
-  max: 100000000000000000000000, // limit each IP to 100 requests per windowMs
+  max: 100, // limit each IP to 100 requests per windowMs
   message: {
     success: false,
     message: "Too many requests from this IP, please try again after 15 minutes",
